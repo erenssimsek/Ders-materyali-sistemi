@@ -1,3 +1,5 @@
+Bu proje, Python ile geliştirilmiş bir online eğitim platformu sistemidir. Kullanıcılar, eğitim materyallerine erişebilir, dersler oluşturabilir ve öğrencilerle etkileşim kurabilirler. Sistem, eğitmenlerin ders içeriklerini yüklemesine ve yönetmesine olanak tanırken, öğrenciler de bu derslere kaydolabilir ve ilerlemelerini takip edebilirler. Eğitim ve öğrenme süreçlerini dijital ortamda etkin bir şekilde yönetmek için tasarlanmıştır.
+
 ![Eğitim Materyali Paylaşım Platformu 6 05 2024 15_59_04](https://github.com/erenssimsek/Ders-materyali-sistemi/assets/93097999/86b7043a-9dae-42cc-ad48-f30f485addc6)
 
 ![Eğitim Materyali Paylaşım Platformu 6 05 2024 16_00_48](https://github.com/erenssimsek/Ders-materyali-sistemi/assets/93097999/5ee2da88-bedc-44fe-a9a0-2cb33fdc11c4)
